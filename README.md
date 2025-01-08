@@ -1,9 +1,9 @@
 # To-Do-list
 
-##TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+## TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
 
-##ABOUT THIS PROJECT-:
+## ABOUT THIS PROJECT-:
 
 In this project i have created a simple to-do app using HTML CSS and JavaScript.
 Built a To-Do List application to make a list of daily works written down in one place.
